@@ -8,5 +8,5 @@ header('Content-Disposition: attachment; filename='.$fileinfo['basename']);
 header('Content-Length: '.filesize($filename));
 readfile($filename);
 }
-down_file($filename);
-?>
+down_file($ziptuning
+);
